@@ -1,4 +1,4 @@
-# Archipelago International Technical Test
+# Archipelago International Technical Test Result
 
 # Basic Questions
 
